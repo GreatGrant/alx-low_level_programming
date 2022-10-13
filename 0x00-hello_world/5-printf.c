@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	printf("prints exactly with proper gramma, but the outcome is a piece o art,\n");
+	printf("with proper grammar, but the outcome is a piece o art,\n");
 	return (0);
 }
 
