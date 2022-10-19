@@ -10,8 +10,8 @@ int main(void)
 	while (current_letter <= 'z')
 
 	{
-		_putchar(current_letter)
-		currrent_letter++;
+		_putchar(current_letter);
+		current_letter++;
 	}
 	_putchar('\n');
 
