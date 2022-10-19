@@ -6,9 +6,9 @@
  */
 int _islower(int c)
 {
-	char current_letter;
+	char current_lowercase;
 
-	for (current_lowercase = 'a'; current_lowercase <= 'z'; current_lowercase++;)
+	for (current_lowercase = 'a'; current_lowercase <= 'z'; current_lowercase++)
 	{
 		if (c == current_lowercase)
 			return (1);
